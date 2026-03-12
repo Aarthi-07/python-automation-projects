@@ -25,3 +25,10 @@ photo2.jpg
 After:
 word_counter_1_photo1.jpg
 word_counter_2_photo2.jpg
+
+
+3. Password Generator
+Generates a random strong password using Python.
+
+Example Output:
+Generated Password: aK8@pZ2!xL
