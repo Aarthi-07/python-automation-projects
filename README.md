@@ -32,3 +32,14 @@ Generates a random strong password using Python.
 
 Example Output:
 Generated Password: aK8@pZ2!xL
+
+
+4. Web Scraper
+Extracts headlines from a website automatically using Python.
+
+Example Output:
+
+Top Headlines:
+1 - Example headline
+2 - AI breakthrough announced
+3 - New tech startup launched
