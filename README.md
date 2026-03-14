@@ -43,3 +43,29 @@ Top Headlines:
 1 - Example headline
 2 - AI breakthrough announced
 3 - New tech startup launched
+
+
+5. CSV Data Cleaner
+Removes duplicate rows from a CSV dataset automatically using Python.
+
+Example:
+
+Input:
+Name,Age,City
+Aarthi,21,Chennai
+Rahul,22,Bangalore
+Aarthi,21,Chennai
+
+Output:
+Name,Age,City
+Aarthi,21,Chennai
+Rahul,22,Bangalore
+
+
+6. File Organizer
+Automatically organizes files into folders based on file type.
+
+Example:
+photo.jpg → Images folder
+report.pdf → Documents folder
+song.mp3 → Audio folder
