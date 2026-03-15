@@ -69,3 +69,12 @@ Example:
 photo.jpg → Images folder
 report.pdf → Documents folder
 song.mp3 → Audio folder
+
+
+7. System Monitor
+Displays CPU, memory, and disk usage of the system using Python.
+
+Example Output:
+CPU Usage: 0.0 %
+Memory Usage: 83.1 %       
+Disk Usage: 79.5 %
