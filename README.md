@@ -87,3 +87,15 @@ Example:
 Subject: Python Automation
 
 Hello, this email was sent automatically using a Python script.
+
+
+9. Job Scraper
+Extracts job titles and company names from a website automatically using Python.
+
+Example Output:
+
+Job: Senior Python Developer
+Company: Payne, Roberts and Davis
+
+Job: Energy engineer
+Company: Vasquez-Davidson
