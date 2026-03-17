@@ -78,3 +78,12 @@ Example Output:
 CPU Usage: 0.0 %
 Memory Usage: 83.1 %       
 Disk Usage: 79.5 %
+
+
+8. Email Automation
+Automatically sends an email using Python.
+
+Example:
+Subject: Python Automation
+
+Hello, this email was sent automatically using a Python script.
