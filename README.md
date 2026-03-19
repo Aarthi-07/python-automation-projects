@@ -99,3 +99,15 @@ Company: Payne, Roberts and Davis
 
 Job: Energy engineer
 Company: Vasquez-Davidson
+
+
+10. AI Text Summarizer
+Summarizes long text into short meaningful sentences using Python.
+
+Example:
+
+Input:
+Python is a powerful programming language used in many fields...
+
+Output:
+Python is widely used and easy to learn.
